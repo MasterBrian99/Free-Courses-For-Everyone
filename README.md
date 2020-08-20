@@ -1,9 +1,10 @@
 # Table of Contents
 ---
 
-- [Website For Free Downloads](#free-download-website)
-- [Free and Discount Coupons](#discounts)
-- [Watch Courses Online](#streaming)
+- Website For Free Downloads
+- Free and Discount Coupons
+- Watch Courses Online
+- Download Courses
 
 
 
@@ -60,6 +61,17 @@
 | [umecourses](https://umecourses.xyz/) | Watch and Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, Machine learning and more. |
 
 ---
+
+## Download Courses
+> Download Courses to your pc or remote cloud
+
+| Repository	  | Description |
+| ------ | ------ |
+| [udemy-dl](https://github.com/r0oth3x49/udemy-dl) | A cross-platform python based utility to download courses from udemy for personal offline use.  |
+| [udemy-dl-node](https://github.com/riazXrazor/udemy-dl) | Nodejs script to download a udemy.com course, for personal offline use  |
+| [udemy-dl-windows](https://github.com/rinodung/udemy-dl-windows) | A windows utility to download videos from udemy for personal offline use  |
+| [skillshare-downloader](https://github.com/kallqvist/skillshare-downloader) | Skillshare video downloader in python |
+
 
 
 
