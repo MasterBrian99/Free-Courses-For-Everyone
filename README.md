@@ -18,7 +18,10 @@
 | Website  | Description |
 | ------ | ------ |
 | [freecoursesonline](https://www.freecoursesonline.me/) | Free Courses Online Free Download Torrent of Phlearn, Pluralsight, Lynda, CBTNuggets, Laracasts, Coursera, Linkedin, Teamtreehouse etc. |
-| [freecoursesite](https://freecoursesite.com/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. |
+| [getfreecourses](https://getfreecourses.co/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. Active site to upload udemy courses |
+| [tutorialsplanet](https://tutorialsplanet.net/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. Active site to upload udemy courses |
+| [desirecourse](https://desirecourse.net/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. |
+| [freecoursesite](https://freecoursesite.com/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. Not active |
 | [courseclub](https://courseclub.me/) | Download Free Courses Online of Phlearn, Pluralsight, Lynda, CBTNuggets etc. Everything is Full And Free For Download And Many More. |
 | [freecourselab](https://freecourselab.me/) | Download Paid Udemy Courses for Free. Learn Hacking, Development, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. |
 | [seekerschoice](https://seekerschoice.net/category/udemy-free-course/) | Get Udemy Premium Courses Free |
