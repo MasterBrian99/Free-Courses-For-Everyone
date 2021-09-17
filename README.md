@@ -24,7 +24,6 @@
 | [freecoursesite](https://freecoursesite.com/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. Not active |
 | [courseclub](https://courseclub.me/) | Download Free Courses Online of Phlearn, Pluralsight, Lynda, CBTNuggets etc. Everything is Full And Free For Download And Many More. |
 | [freecourselab](https://freecourselab.me/) | Download Paid Udemy Courses for Free. Learn Hacking, Development, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. |
-| [seekerschoice](https://seekerschoice.net/category/udemy-free-course/) | Get Udemy Premium Courses Free |
 | [online-courses](https://online-courses.club/) | Watch and Learn. Educate yourself! |
 | [pimpmymoney](https://pimpmymoney.net/) | Turbocharge your money instantly. FREE access to the latest Digital Marketing Courses. |
 | [freetutsdownload](https://freetutsdownload.com/) | Download All Course Free |
