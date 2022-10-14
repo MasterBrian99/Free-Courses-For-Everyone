@@ -65,6 +65,7 @@
 | [ustreamy](https://www.ustreamy.co) | Stream and Watch free udemy courses online. Thousands of paid udemy courses from top udemy instructors are available. Download udemy tutorials for free. |
 | [learningcrux](https://www.learningcrux.com/) | Free Tutorials & udemy free download. Python, JavaScript, Machine Learning, SEO, Hacking, Photography tutorials Download and Watch Udemy Paid Courses for Free. |
 | [umecourses](https://umecourses.xyz/) | Watch and Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, Machine learning and more. |
+| [sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. |
 
 
 ## Download Courses
