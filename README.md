@@ -17,6 +17,7 @@
 
 | Website  | Description |
 | ------ | ------ |
+| [tutsnode](https://udemyfreecourses.org/](https://tutsnode.net/) | Best site for downloading free paid Udemy Courses for free. |
 | [freecoursesonline](https://www.freecoursesonline.me/) | Free Courses Online Free Download Torrent of Phlearn, Pluralsight, Lynda, CBTNuggets, Laracasts, Coursera, Linkedin, Teamtreehouse etc. |
 | [getfreecourses](https://getfreecourses.co/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. Active site to upload udemy courses |
 | [tutorialsplanet](https://tutorialsplanet.net/) | Download Udemy Paid Courses for Free. Learn Hacking, Programming, IT & Software, Marketing, Music, Free Online Courses, and more. Active site to upload udemy courses |
