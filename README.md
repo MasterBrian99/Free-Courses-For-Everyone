@@ -30,6 +30,7 @@
 | [udemyfreecourses](https://udemyfreecourses.org/) | find ALL free courses of Udemy in an easy and quick way. |
 | [free-programming-books](https://ebookfoundation.github.io/free-programming-books/) | Freely available programming books, online courses and Podcast. |
 | [courseghar.com](https://coursesghar.com/tutorialsv1/) | Download Paid Udemy Courses for Free. Learn Hacking, Development, Programming and IT & Software
+| [tutsnode](https://tutsnode.net/) | Best website for downloading paid Udemy Courses for free. |
 
 
 
