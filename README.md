@@ -83,6 +83,7 @@
 | [udemy-dl-windows](https://github.com/rinodung/udemy-dl-windows) | A windows utility to download videos from udemy for personal offline use  |
 | [skillshare-downloader](https://github.com/kallqvist/skillshare-downloader) | Skillshare video downloader in python |
 | [udacimak](https://github.com/udacimak/udacimak) | Udacity Nanodegree Downloader |
+| [Foundthejob](https://foundthejob.com/?s=course) |Free Courses for all |
 
 ### Pull requests are welcome.
 
