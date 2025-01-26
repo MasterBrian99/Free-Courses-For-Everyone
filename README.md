@@ -61,6 +61,8 @@
 | [Freewebcart](https://www.freewebcart.com/) | Get certified with Udemy Free Courses with Certificate. Boost your skills, learn from experts, and start your success journey today. |
 | [Course Joiner](https://www.coursejoiner.com/tag/100-off/) | 100% Off Udemy Premium Courses coupon, jobs & internship opportunities. |
 | [Korshub](https://www.korshub.com/courses/platform/udemy-coupons) | Udemy, SkillShare, Kajabi, Coursera and many more platform courses 100% off free and discount coupons.  |
+| [Scroll Coupons](https://scrollcoupons.com/) | Get the freshest Udemy coupons and access to the best courses, keep up to date and enjoy 100% off coupon codes.  |
+| [coursevania](https://coursevania.com/) | Unlock your potential with our free online courses! Explore a world of skill-building opportunities without any cost!  |
 
 
 ## Watch Courses Online
