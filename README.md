@@ -63,7 +63,7 @@
 | [Korshub](https://www.korshub.com/courses/platform/udemy-coupons) | Udemy, SkillShare, Kajabi, Coursera and many more platform courses 100% off free and discount coupons.  |
 | [Scroll Coupons](https://scrollcoupons.com/) | Get the freshest Udemy coupons and access to the best courses, keep up to date and enjoy 100% off coupon codes.  |
 | [coursevania](https://coursevania.com/) | Unlock your potential with our free online courses! Explore a world of skill-building opportunities without any cost!  |
-
+| [UdemyXpert](https://udemyxpert.com/) | Get 100% free Udemy coupons and discounts. Find the latest and most popular Udemy coupon codes for free and level up your skills today. |
 
 ## Watch Courses Online
 > watch live courses 
